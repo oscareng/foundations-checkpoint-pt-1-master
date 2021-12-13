@@ -13,6 +13,3 @@ function soup(phrase, bank){
     if (finalword === phrase){return(true)}
     else {return(false)}
 }
-const phrase = 'goodbye';
- const characterBank = 'hodoegbyzemnope';
-soup(phrase,characterBank)
